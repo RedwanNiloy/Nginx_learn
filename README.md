@@ -15,7 +15,7 @@ Upstream - reverse proxy and load balancing
 
 
 We will work on conf.d folder (we will make diffe conf file here)
-Root means from where our content will be loaded
+Root means from where our content will be loaded.
 
 
 
